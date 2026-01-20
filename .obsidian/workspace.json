@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1_Introduction_History_and_Internet_Architecture.md",
+                "file": "CN_Spring_2026/L1_Introduction_History_and_Internet_Architecture.md",
                 "mode": "source",
                 "source": false
               },
@@ -212,10 +212,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "23a424da54eef9b0",
+  "active": "3c328e519364918c",
   "lastOpenFiles": [
     "HPCA_Spring_2026/L3_Pipelining.md",
-    "L1_Introduction_History_and_Internet_Architecture.md",
+    "CN_Spring_2026/L1_Introduction_History_and_Internet_Architecture.md",
     "CN_Spring_2026",
     "Screenshot 2026-01-18 131600.png",
     "HPCA_Spring_2026/Pictures",
