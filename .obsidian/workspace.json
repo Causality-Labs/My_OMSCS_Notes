@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "23a424da54eef9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "L1_Introduction_History_and_Internet_Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "L1_Introduction_History_and_Internet_Architecture"
+            }
+          },
+          {
             "id": "2c1026f641f24e7a",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +212,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2de3d241221c443d",
+  "active": "23a424da54eef9b0",
   "lastOpenFiles": [
+    "HPCA_Spring_2026/L3_Pipelining.md",
+    "L1_Introduction_History_and_Internet_Architecture.md",
+    "CN_Spring_2026",
     "Screenshot 2026-01-18 131600.png",
     "HPCA_Spring_2026/Pictures",
-    "Untitled",
     "HPCA_Spring_2026/L2_Metrics_and_Evaluations.md",
-    "HPCA_Spring_2026/L3_Pipelining.md",
     "Pasted image 20260117085139.png",
     "Pasted image 20260117084322.png",
     "Pasted image 20260117083900.png",
@@ -231,7 +246,6 @@
     "GIOS_Fall_2025/P4L3_Distributed_Shared_Memory.md",
     "split-device model.md",
     "GIOS_Fall_2025/P3L1_Scheduling.md",
-    "Untitled.md",
     "GIOS_Fall_2025/Extra_Material",
     "Untitled.base",
     "GIOS_Fall_2025"
